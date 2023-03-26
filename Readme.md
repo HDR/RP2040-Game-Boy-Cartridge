@@ -1,3 +1,17 @@
+## THIS REPOSITORY IS OUTDATED AND IS UNRELATED TO THE NEW RP2040 CARTRIDGE, DO NOT USE
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## RP2040 Game Boy Cartridge - Formerly `Game Boy Pico Cartridge`
 
 
